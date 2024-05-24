@@ -30,7 +30,7 @@ nav {
 .logo {
   height: 50px;
   width: 100px;
-  background-image: url(../img/amazon_logo.png);
+  background-image: url(./img/amazon_logo.png);
   background-size: cover;
 }
 .nav-address {
